@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5028
+
+ftcolor.vim
+Changes colorschemes according to the buffer type.
+
+Home page: https://github.com/caglartoklu/ftcolor.vim
+For documentation and a .gif animation, please visit the homepage link. 
+
+For each defined file type, this plugin changes the color scheme according to the configuration:
+For example, you can use the color scheme 'eclipse' for .java files, 'ibmedit' for .vb files a 'molokai' for all the others.
+
